@@ -3,4 +3,7 @@ as
 begin
 null;
 end;
+
+
+insert into t1 values (1,1);
 /
